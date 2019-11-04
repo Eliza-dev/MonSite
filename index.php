@@ -18,7 +18,9 @@
         Quae cupiditate dolore, ea minima culpa rerum eaque natus recusandae iste. 
         Omnis nobis sint, nesciunt tenetur quo labore fugiat quaerat provident incidunt, 
         similique assumenda libero veniam impedit placeat nihil natus velit doloribus dicta temporibus blanditiis id voluptates 
-        neque, deleniti voluptatem. Minus adipisci voluptas id debitis inventore ullam distinctio ad?</p>
+        neque, deleniti voluptatem. Minus adipisci voluptas id debitis inventore ullam distinctio ad?</p><hr>
+
+        <h2 class="text-success text-center">Utilisation de GIT / GITHUB</h2>
     </div> 
 </body>
 </html>
